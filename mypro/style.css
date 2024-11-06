@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: antiquewhite;
+}
+p{
+    text-align: center;
+    /* line-height: 200px; */
+    font-weight:  500px;
+    font-size: larger;
+    background-color: blueviolet;
+    margin: auto;
+}
