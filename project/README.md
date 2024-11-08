@@ -1,3 +1,4 @@
-# degree
+# student
 
-i completed degree 
+i completed bca
+i am persiving mca
